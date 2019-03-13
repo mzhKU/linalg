@@ -1,0 +1,17 @@
+City Sport Q1 Q2 Q3 Q4
+Z Ballsport 25 175 200 15
+Z Laufsport 35 375 240 40
+Z Wintersport 320 20 60 270
+Z Bergsport 10 120 90 150
+D Ballsport 10 100 100 25
+D Laufsport 25 175 150 10
+D Wintersport 450 150 120 625
+D Bergsport 15 175 250 60
+B Ballsport 50 320 280 125
+B Laufsport 110 455 610 55
+B Wintersport 55 10 10 120
+B Bergsport 75 380 410 120
+N Ballsport 40 250 310 150
+N Laufsport 250 515 520 325
+N Wintersport 35 25 15 150
+N Bergsport 95 265 830 210
